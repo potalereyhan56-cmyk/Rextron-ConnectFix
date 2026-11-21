@@ -1,5 +1,5 @@
 {
-  "remarks": "Rextron - Connect Support",
+  "remarks": "Rextron - Connect SupportFix",
   "inbounds": [
     {
       "listen": "127.0.0.1",
@@ -40,7 +40,7 @@
     {
       "protocol": "hysteria",
       "settings": {
-        "address": "proxy-eu.dripwire.cc",
+        "address": "proxy-ind.dripwire.cc",
         "port": 443,
         "version": 2
       },
@@ -55,7 +55,7 @@
           "alpn": [
             "h3"
           ],
-          "serverName": "proxy-eu.dripwire.cc",
+          "serverName": "proxy-ind.dripwire.cc",
           "show": false
         },
         "finalmask": {
